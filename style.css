@@ -1,0 +1,26 @@
+.checked {
+    color: orange;
+}
+
+.form-group.btn-save {
+    width: 124px !important;
+}
+
+.message {
+    background-color: bisque;
+    width: 30%;
+    height: 34px;
+    padding-left: 16px;
+    padding-top: 4px;
+    margin-top: 3em;
+    margin-left: 10em;
+}
+
+.insert-message {
+    margin-left: 5em;
+    background-color: blanchedalmond;
+    width: 30%;
+    padding-top: 10 px;
+    padding-bottom: 10 px;
+    padding-left: 11 px;
+}
